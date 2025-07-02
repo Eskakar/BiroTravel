@@ -1,0 +1,2 @@
+bagian frontend
+# install react js or vue
